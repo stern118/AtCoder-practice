@@ -1,5 +1,5 @@
 # AtCoder-practice
-AtCoder Beginners Selectionの学習記録用のリポジトリです。
+AtCoder Beginners Selectionの学習記録用のリポジトリです。<br>
 問題一覧へのリンク：https://atcoder.jp/contests/abs
 
 
